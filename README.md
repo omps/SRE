@@ -84,7 +84,7 @@ Resources:
 The follwing courses will help me with my task
 
 Curated list of study Material: https://github.com/jwasham/coding-interview-university
-Another original copy is: 
+Another original copy is: https://github.com/omps/coding-interview-university
 https://techdevguide.withgoogle.com/ - Google Technical Guide
 www.freecodecamp.org
 You Won't remember all: https://startupnextdoor.com/retaining-computer-science-knowledge/
